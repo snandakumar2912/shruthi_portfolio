@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shruthi_portfolio/static/css/main.5f6d1fb6.css",
+    "main.js": "/shruthi_portfolio/static/js/main.49d4aba2.js",
+    "static/media/Project3.png": "/shruthi_portfolio/static/media/Project3.0a41779830168eb36185.png",
+    "static/media/Project4.png": "/shruthi_portfolio/static/media/Project4.5c7857cb63cd3ef9e1e5.png",
+    "static/media/Project1.jpg": "/shruthi_portfolio/static/media/Project1.f17605540cb24cf76bcc.jpg",
+    "static/media/profile_picture.jpg": "/shruthi_portfolio/static/media/profile_picture.76b95b15d1bace5b3d36.jpg",
+    "static/media/s.jpg": "/shruthi_portfolio/static/media/s.42de00df29d4e5d06a45.jpg",
+    "static/media/Project2.jpg": "/shruthi_portfolio/static/media/Project2.b94754c4d8422d757b5f.jpg",
+    "static/media/ai.jpg": "/shruthi_portfolio/static/media/ai.0800abf5c352de8e8995.jpg",
+    "static/media/portfolio.svg": "/shruthi_portfolio/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/testimonials.svg": "/shruthi_portfolio/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
+    "static/media/contact.svg": "/shruthi_portfolio/static/media/contact.acdd342ba1db0f98c7cd.svg",
+    "static/media/about.svg": "/shruthi_portfolio/static/media/about.192e39ff229e6eb06083.svg",
+    "index.html": "/shruthi_portfolio/index.html",
+    "main.5f6d1fb6.css.map": "/shruthi_portfolio/static/css/main.5f6d1fb6.css.map",
+    "main.49d4aba2.js.map": "/shruthi_portfolio/static/js/main.49d4aba2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f6d1fb6.css",
+    "static/js/main.49d4aba2.js"
+  ]
+}
